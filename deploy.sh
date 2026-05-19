@@ -5,8 +5,8 @@ SERVER_USER="root"
 SERVER_IP="206.189.150.46"
 SERVER_DOMAIN="gmstdevops.com"
 PROJECT_NAME="pagasa-weather-demo"
-FRONTEND_IMAGE_NAME="pagasa-weather-demo-frontend:latest"
-BACKEND_IMAGE_NAME="pagasa-weather-demo-backend:latest"
+FRONTEND_IMAGE_NAME="pagasa-weather-demo-app-frontend:latest"
+BACKEND_IMAGE_NAME="pagasa-weather-demo-app-backend:latest"
 
 # Server paths
 #REMOTE_PROJECT_DIR="/home/$SERVER_USER/training/$PROJECT_NAME"
