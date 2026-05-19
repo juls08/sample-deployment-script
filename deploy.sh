@@ -4,7 +4,7 @@
 SERVER_USER="root"
 SERVER_IP="206.189.150.46"
 SERVER_DOMAIN="gmstdevops.com"
-PROJECT_NAME="pagasa-weather-demo"
+PROJECT_NAME="pagasa-weather-demo-app"
 FRONTEND_IMAGE_NAME="pagasa-weather-demo-app-frontend:latest"
 BACKEND_IMAGE_NAME="pagasa-weather-demo-app-backend:latest"
 
